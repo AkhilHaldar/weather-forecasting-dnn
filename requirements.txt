@@ -1,0 +1,7 @@
+TensorFlow
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+-e .
